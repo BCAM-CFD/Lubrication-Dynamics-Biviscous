@@ -1,0 +1,47 @@
+#####################################
+############ INPUT FILE #############
+# For a description of the input    #
+# variables check the documentation #
+#####################################
+#####################################
+
+##### Numerical ##########
+Nsteps      = 10000000
+dt          = 0.0001
+explicit    = .FALSE.
+sweep_tol   = 0.01
+N_sweep_max = 10 
+
+###### System #######
+dim       = 3
+L         = 16.0 8.0 64.0
+eta0      = 8.46
+eta1      = 0.846 
+gamma_dot = 0.052875
+biviscous = .FALSE. 
+d_bulk    = 0.1
+
+###### Particles ########
+N        = 50
+R        = 1.0
+mass     = 4.18879020478639
+read_pos = .TRUE.
+file_pos = pos2.dat
+read_vel = .TRUE.
+file_vel = vel2.dat
+
+###### Interactions ######
+rcut    = 2.5
+rcut_on = 2.00001
+rlist   = 1.05
+tau     = 1000.0
+F0      = 0.02115 
+
+###### randomness ########
+fixed_seed = .TRUE.
+seed       = 820519435
+
+###### output ############
+dir_output      = test
+freq_write      = 100
+freq_write_part = 10000
