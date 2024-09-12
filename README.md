@@ -20,7 +20,6 @@ Code  for  simulating  suspensions  of  spherical  particles  in  a
    valid only for concentrated systems.
    
    Reference:
-   
      - Sagaya  Savarimuthu  Prassana Kumar;  Adolfo  Vázquez-Quesada;
         Marco  Ellero.  Numerical  investigation  of  the  rheological
         behavior of a dense particle  suspension in a biviscous matrix
