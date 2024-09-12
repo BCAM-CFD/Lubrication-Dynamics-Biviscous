@@ -10,6 +10,10 @@ Code for suspensions in Newtonian and biviscous matrices with a lubrication dyna
     in Madrid, Spain.
  Developer: Adolfo Vazquez-Quesada.
 
+contact: 
+    a.vazquez-quesada@fisfun.uned.es
+ 	  mellero@bcamath.org
+
 Code  for  simulating  suspensions  of  spherical  particles  in  a
    Newtonian  or biviscous  fluid. The  hydrodynamic interactions  are
    modeled through lubrication  forces, so the code is  expected to be
