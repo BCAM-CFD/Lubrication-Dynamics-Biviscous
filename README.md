@@ -18,7 +18,9 @@ Code  for  simulating  suspensions  of  spherical  particles  in  a
    Newtonian  or biviscous  fluid. The  hydrodynamic interactions  are
    modeled through lubrication  forces, so the code is  expected to be
    valid only for concentrated systems.
+   
    Reference:
+   
      - Sagaya  Savarimuthu  Prassana Kumar;  Adolfo  Vázquez-Quesada;
         Marco  Ellero.  Numerical  investigation  of  the  rheological
         behavior of a dense particle  suspension in a biviscous matrix
