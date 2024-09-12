@@ -1,6 +1,6 @@
 # Lubrication-Dynamics-Biviscous
 <p>
-<img src="https://github.com/BCAM-CFD/Lubrication-Dynamics-Biviscous/blob/main/lub_dynamics_biviscous.png" height="400rm" align="right">
+<img src="https://github.com/BCAM-CFD/Lubrication-Dynamics-Biviscous/blob/main/lub_dynamics_biviscous.png" height="500rm" align="right">
 
 Code for suspensions in Newtonian and biviscous matrices with a lubrication dynamics model.
 
